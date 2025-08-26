@@ -4,6 +4,7 @@ saldo = 350
 saque = 200
 limite = 300
 
+
 saldo >= saque and saque <= limite
 
 # Com E, ambas precisam ser verdadeira / Ser 1
