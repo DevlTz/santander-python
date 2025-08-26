@@ -8,7 +8,7 @@ def sacar(valor):
     if saldo >= valor:
         print("Valor sacado!")
         saldo_pos_saque = saldo - valor
-        print("Seu valor atual agora é:" saldo_pos_saque)
+        print("Seu valor atual agora é:", saldo_pos_saque)
     
     
 def depositar(valor):
